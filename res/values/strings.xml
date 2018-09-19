@@ -10086,5 +10086,6 @@
     <!-- Maintainer -->
     <string name="maintainer_title">Device Maintainer</string	
     <string name="device_maintainer">Abhinav Gupta (Agrd1129)</string>
-     <string name="device_summary">Unknown</string>
+    <string name="device_summary">Unknown</string>
+
 </resources>
